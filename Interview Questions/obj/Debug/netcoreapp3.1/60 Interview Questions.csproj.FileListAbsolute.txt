@@ -1,0 +1,11 @@
+C:\Users\Anonymous\Desktop\Code\Interview Exercises\60 Interview Questions\obj\Debug\netcoreapp3.1\60 Interview Questions.csprojAssemblyReference.cache
+C:\Users\Anonymous\Desktop\Code\Interview Exercises\60 Interview Questions\obj\Debug\netcoreapp3.1\60 Interview Questions.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\Code\Interview Exercises\60 Interview Questions\obj\Debug\netcoreapp3.1\60 Interview Questions.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\Code\Interview Exercises\60 Interview Questions\bin\Debug\netcoreapp3.1\60 Interview Questions.exe
+C:\Users\Anonymous\Desktop\Code\Interview Exercises\60 Interview Questions\bin\Debug\netcoreapp3.1\60 Interview Questions.deps.json
+C:\Users\Anonymous\Desktop\Code\Interview Exercises\60 Interview Questions\bin\Debug\netcoreapp3.1\60 Interview Questions.runtimeconfig.json
+C:\Users\Anonymous\Desktop\Code\Interview Exercises\60 Interview Questions\bin\Debug\netcoreapp3.1\60 Interview Questions.runtimeconfig.dev.json
+C:\Users\Anonymous\Desktop\Code\Interview Exercises\60 Interview Questions\bin\Debug\netcoreapp3.1\60 Interview Questions.dll
+C:\Users\Anonymous\Desktop\Code\Interview Exercises\60 Interview Questions\bin\Debug\netcoreapp3.1\60 Interview Questions.pdb
+C:\Users\Anonymous\Desktop\Code\Interview Exercises\60 Interview Questions\obj\Debug\netcoreapp3.1\60 Interview Questions.dll
+C:\Users\Anonymous\Desktop\Code\Interview Exercises\60 Interview Questions\obj\Debug\netcoreapp3.1\60 Interview Questions.pdb
